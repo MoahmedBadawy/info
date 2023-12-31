@@ -1,7 +1,5 @@
-<p align="center">
-	<img src="pics/header.png">
-</p>
 
+<<<<<<< Updated upstream
 <p align="center">
 	<a href="https://www.linkedin.com/in/amankrx/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -82,3 +80,21 @@
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=amankrx&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 </p>
+=======
+<table>
+  <tr>
+    <td><a href="https://github.com/Mohamed-badawy-sayed/info/blob/baf974551d6a6ccc8b8429f99c7f656b9529ec78/repo/images/file/profile%20(1).png"><img src="https://github.com/Mohamed-badawy-sayed/info/blob/baf974551d6a6ccc8b8429f99c7f656b9529ec78/repo/images/file/profile%20(1).png" alt="Image 1"></a></td>
+    <td><a href="https://github.com/Mohamed-badawy-sayed/info/blob/baf974551d6a6ccc8b8429f99c7f656b9529ec78/repo/images/file/profile%20(1).png"><img src="https://github.com/Mohamed-badawy-sayed/info/blob/baf974551d6a6ccc8b8429f99c7f656b9529ec78/repo/images/file/profile%20(1).png" alt="Image 1"></a></td>
+    <td><a href="https://github.com/Mohamed-badawy-sayed/info/blob/baf974551d6a6ccc8b8429f99c7f656b9529ec78/repo/images/file/profile%20(1).png"><img src="https://github.com/Mohamed-badawy-sayed/info/blob/baf974551d6a6ccc8b8429f99c7f656b9529ec78/repo/images/file/profile%20(1).png" alt="Image 1"></a></td>
+    <td><a href="https://github.com/Mohamed-badawy-sayed/info/blob/baf974551d6a6ccc8b8429f99c7f656b9529ec78/repo/images/file/profile%20(1).png"><img src="https://github.com/Mohamed-badawy-sayed/info/blob/baf974551d6a6ccc8b8429f99c7f656b9529ec78/repo/images/file/profile%20(1).png" alt="Image 1"></a></td>
+    <td><a href="https://github.com/Mohamed-badawy-sayed/info/blob/baf974551d6a6ccc8b8429f99c7f656b9529ec78/repo/images/file/profile%20(1).png"><img src="https://github.com/Mohamed-badawy-sayed/info/blob/baf974551d6a6ccc8b8429f99c7f656b9529ec78/repo/images/file/profile%20(1).png" alt="Image 1"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.example.com">Row 2, Col 1</a></td>
+    <td><a href="https://www.example.com">Row 2, Col 2</a></td>
+    <td><a href="https://www.example.com">Row 2, Col 3</a></td>
+    <td><a href="https://www.example.com">Row 2, Col 4</a></td>
+    <td><a href="https://www.example.com">Row 2, Col 5</a></td>
+  </tr>
+</table>
+>>>>>>> Stashed changes
